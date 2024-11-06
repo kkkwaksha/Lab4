@@ -1,0 +1,13 @@
+.color-toggle {
+  background-color: #8da9cc;
+  color: #2a2149;
+}
+
+.new-color {
+  background-color: #2a2149;
+  color: #8da9cc;
+}
+
+button {
+  padding: 5px;
+}
